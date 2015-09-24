@@ -1,0 +1,6 @@
+127.0.0.1
+localhost
+google.com
+server1
+8.8.8.8
+server2.local
